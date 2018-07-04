@@ -1,0 +1,3 @@
+# CV-MDL
+
+This project report describes the Application of Machine Learning and Neural Networks techniques applied in the field of Computer Vision. The main objectives of this project are to detect faces in individual Images, group of people and Identify the correct individual in individual Images or group Images. We will also perform number recognition on Individual image and video where each person is holding a number that will help to label the individual, which in turn will help train the classifiers. To reach to goal we must implemented different feature extraction on the Images and also apply a variety of filters to recognize the numbers. The description of how this was implemented is explained in the next sections.
